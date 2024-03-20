@@ -113,7 +113,7 @@ body {
     color: #000;
 }
 
-.nav-pills .nav-link.active{
+.nav-pills .nav-link.active-tag{
 	color: #000;
 	background-color: #BEB45A;
 }
